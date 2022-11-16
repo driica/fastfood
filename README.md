@@ -1,31 +1,25 @@
-# Fast Food / Front-end
+## FastFood 🌭
+<p align="center"><a href="https://fastfoodd.vercel.app/">⭐ Clique aqui</a> para ver o projeto. ⭐</p>
+<br>
 
-Projeto feito para o desafio Front-end da empresa Devio.
 
-# Deploy
+## Tecnologias utilizadas 💻
 
-https://fastfooddevio.herokuapp.com/
+<div align="center">
 
-# Minha trajetória
+|:globe_with_meridians: Frontend| |
+|:---:|:---:|
+|[ReactJS](https://reactjs.org)|
+|[TypeScript](https://TypeScript.google.com/)||
 
-Levei cerca de 5 dias para desenvolver o deploy. Ainda não consegui implementar todas as funcionalidades do desafio, principalmente os bônus, então considero um projeto em construção. Contudo, a maioria das histórias de usuário já estão funcionando. 
+</div>
 
-# Utilizei
-- React JS
-- TypeScript
-
-# Desafio
+### Desafio
 
 Um restaurante precisa poder registrar suas vendas de forma fácil e rápida, este trabalha com preparo de comidas rápidas e o método atual por comanda deixa o processo como um todo mais lento. O restaurante gostaria de ter um ambiente intuitivo listando os produtos mais vendidos e possibilitando a fácil inserção desses no checkout, ele também gostaria de um visual simples, porém moderno.
 
-# Requisitos 
-- A linguagem utilizada deve ser JS.
-- Deverá ser desenvolvido utilizando as versões mais recentes.
-- Utilizar dos Padrões Devio.
-- Seguir o Protótipo.
-- Ser responsivo.
 
-# Histórias de Usuário
+## O que o restaurante faz (Não finalizado)
  
 - O usuário poderá ver uma pequena quantidade de produtos na tela para seleção rápida.
 - O usuário terá a opção de digitar o nome ou código para encontrar o produto.
@@ -36,8 +30,3 @@ Um restaurante precisa poder registrar suas vendas de forma fácil e rápida, es
 - O pedido deverá aparecer para a cozinha junto ao nome do cliente.
 - A cozinha poderá dar baixa nos pedidos concluídos.
 
-### Histórias Bônus (opcionais) 
-- Os pedidos devem aparecer para a cozinha em tempo real. (Obs: Utilização de Long Pooling ou WebSockets facilitam a solução.)
-- O usuário poderá incluir uma observação a cozinha.
-- O usuário poderá atribuir múltiplas formas de pagamento na finalização do pedido.
-- Os pedidos baixados devem aparecer em uma tela com o nome do cliente, apitando para ser feito a retirada.
